@@ -1,0 +1,37 @@
+{
+  "name": "saiharshithkumarsiguru.github.io",
+  "version": "1.0.0",
+  "description": "\"This is my personal website built using html,css,javascript,bootstrap and I might add new features in the future.\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiharshithkumarsiguru/saiharshithkumarsiguru.github.io.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "bootstrap"
+  ],
+  "author": "harshithsiguru",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "bugs": {
+    "url": "https://github.com/saiharshithkumarsiguru/saiharshithkumarsiguru.github.io/issues"
+  },
+  "homepage": "https://github.com/saiharshithkumarsiguru/saiharshithkumarsiguru.github.io#readme"
+}
