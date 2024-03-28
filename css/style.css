@@ -786,7 +786,12 @@ margin-left: 10px;}
 .services {
   margin-bottom: 80px;
   position: relative;
-  z-index: 0; }
+  z-index: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
   @media screen and (max-width: 768px) {
     .services {
       margin-bottom: 4em; } }
